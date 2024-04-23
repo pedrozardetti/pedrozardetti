@@ -39,6 +39,8 @@ Estou sempre aberto a colaborações, discussões e aprendizado contínuo. Se vo
 
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado. Vamos crescer juntos na tecnologia!
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrozardetti&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ![pedrozardetti GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozardetti&show_icons=true&theme=cobalt)
 
 **Obrigado por visitar meu perfil!** 🙌
