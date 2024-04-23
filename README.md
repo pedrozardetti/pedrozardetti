@@ -30,6 +30,8 @@ Este repositório foi criado para compartilhar meu aprendizado e projetos relaci
 
 - 📚 **Recursos** - Notas, scripts, tutoriais e artigos sobre os tópicos que me interessam.
 
+  <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ## Vamos Conectar!
 
 Estou sempre aberto a colaborações, discussões e aprendizado contínuo. Se você compartilha interesses semelhantes ou tem alguma dúvida, não hesite em entrar em contato.
