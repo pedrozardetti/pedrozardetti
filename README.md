@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pedrozardetti/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/pedrozardetti/)
 
-## Bom ter ver aqui
+## Bom ter ver aqui :)
 
 Sou um Desenvolvedor com uma paixão em resolver problemas e pioneiro no pensamento de primeiros princípios. 🚀
 
